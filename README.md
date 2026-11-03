@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> I'm not working on this anymore. If anyone submits a pr, I will review and probably merge it, but I don't even have a Windows computer anymore
+
 <div align=center>
 
 ![logo](logos/256.png)
